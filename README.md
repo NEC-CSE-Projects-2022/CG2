@@ -2,13 +2,13 @@
 
 
 ## Team Info
-- 22471A05E2 — **Thogati Adi Lakshmi** ([LinkedIn](https://www.linkedin.com/in/adi-lakshmi-thogati-211648276))  
+- **22471A05E2 — Thogati Adi Lakshmi** ([LinkedIn](https://www.linkedin.com/in/adi-lakshmi-thogati-211648276))  
   _Work Done:_ Data preprocessing, feature engineering, TabNet implementation, SHAP analysis.
 
-- 22471A05J8 — **Sunkara Harini** ([LinkedIn](https://www.linkedin.com/in/harini2213))  
+- **22471A05J8 — Sunkara Harini** ([LinkedIn](https://www.linkedin.com/in/harini2213))  
   _Work Done:_ CNN–BiLSTM and Attention-LSTM model development, training, and evaluation.
 
-- 22471A05I7 — **Sattenapalli Sadarani** ([LinkedIn](https://www.linkedin.com/in/sadarani-sattenapalli-779151282))  
+- **22471A05I7 — Sattenapalli Sadarani** ([LinkedIn](https://www.linkedin.com/in/sadarani-sattenapalli-779151282))  
   _Work Done:_ MLP and 1D-CNN implementation, performance comparison, visualization.
 
 ---
